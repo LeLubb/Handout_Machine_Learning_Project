@@ -3,7 +3,7 @@ import numpy as np
 import os
 
 # --- PASTE THE FOLDER PATH HERE, with all the data sets ---
-BASE_PATH = "/Users/lelub/Documents/3A_ENS_Dauphine/S1/ML/FINAL_project/project-7-files/"
+BASE_PATH = "project-7-files/"
 
 def load_and_merge_data(subset='learn'):
     """
